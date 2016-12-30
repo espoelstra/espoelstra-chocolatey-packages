@@ -9,7 +9,7 @@ $packageArgs = @{
   unzipLocation = $toolsDir
   url           = $url
   softwareName  = 'httpsysmanager*'
-  checksum      = 'B7DFFB7502042ECC8C7E9155CC4E3E8B6EE1FA1B29DB838F560A31C2FB1DCA17'
+  checksum      = 'FBB36B445051EB40324ED81EA627B90F7F8FCE82F336531B8C2031C798088106'
   checksumType  = 'sha256'
 }
 
