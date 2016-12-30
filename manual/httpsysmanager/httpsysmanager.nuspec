@@ -4,7 +4,7 @@
   <metadata>
     <id>httpsysmanager</id>
     <version>1.5</version>
-    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <packageSourceUrl>https://github.com/espoelstra/espoelstra-chocolatey-packages</packageSourceUrl>
     <owners>espoelstra</owners>
     <title>httpsysmanager (Install)</title>
     <authors>Nicolas Dorier</authors>
